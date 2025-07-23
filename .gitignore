@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# Airflow config/database/logs
+airflow_settings.yaml
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+webserver_config.py
+logs/
+
+# Astro project files
+.astro/
+
+# Docker
+.dockerignore
+
+# Git
+.git
