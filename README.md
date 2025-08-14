@@ -1,4 +1,3 @@
-```markdown
 # ETL Amazon Books Data Pipeline using Apache Airflow
 
 ## Project Overview
