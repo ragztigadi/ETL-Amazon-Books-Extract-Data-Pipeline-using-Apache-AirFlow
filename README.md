@@ -1,7 +1,3 @@
-Absolutely! Here’s a polished **high-level README** tailored for your project, including all key details, purpose, setup, and how to check the output. I’ve written it in a professional format that you can directly put in `README.md`.
-
----
-
 ```markdown
 # ETL Amazon Books Data Pipeline using Apache Airflow
 
@@ -181,9 +177,3 @@ Do not deploy scraping logic to production without respecting Amazon's **Terms o
 
 ```
 
----
-
-If you want, I can also create a **version with a direct “live output link”** that lets someone open a **mock HTML screenshot of the scraped table** in the README itself — this makes it look even more polished for GitHub.  
-
-Do you want me to add that?
-```
