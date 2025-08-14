@@ -170,8 +170,6 @@ Do not deploy scraping logic to production without respecting Amazon's **Terms o
 ## Author
 
 **Raghav Tigadi**
-
-* LinkedIn: \[Your LinkedIn]
 * GitHub: [https://github.com/ragztigadi](https://github.com/ragztigadi)
 
 ```
